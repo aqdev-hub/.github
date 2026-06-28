@@ -1,94 +1,69 @@
-<div align="center">👋 Hi, I'm Abdulqadoos Al-Shaibani
+<div align="center" width="50">
 
-Flutter Developer • Web Developer • UI Enthusiast
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+  <br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+  <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Web+Developer;Building+Apps+That+Matter;Always+Learning+Something+New" /><br>"Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
+  <details>
+    <summary><strong>Busy coding & vibing to:</strong></summary>
+    <br>
+    [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+  </details>
 
-</div>---
+  ![Profile Views](https://komarev.com/ghpvc/?username=<YOUR_GITHUB_USERNAME>&style=flat&color=orange&label=PROFILE+VIEWS)
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<YOUR_GITHUB_USERNAME>&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-🚀 About Me
-
-class Abdulqadoos extends Developer {
-
-  final String role =
-      "Flutter Developer & Web Developer";
-
-  final List<String> interests = [
-    "Mobile Development",
-    "Frontend Development",
-    "Clean Architecture",
-    "UI/UX",
-    "Problem Solving"
-  ];
-
-  final List<String> currentlyLearning = [
-    "Advanced Flutter",
-    "Backend Integration",
-    "System Design"
-  ];
-
-}
-
----
-
-🛠 Tech Stack
-
-Mobile Development
-
-"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-"Dart" (https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-Web Development
-
-"HTML5" (https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-
-Backend & Database
-
-"Firebase" (https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
-"SQLite" (https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
-Tools
-
-"Git" (https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git)
-"GitHub" (https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-"VSCode" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
-"Figma" (https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-📈 GitHub Stats
-
-<div align="center">https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
-
-https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
-
-</div>---
-
-💡 What I Build
-
-✅ Flutter Mobile Apps
-✅ Responsive Web Interfaces
-✅ Admin Dashboards
-✅ Firebase Integrated Systems
-✅ Modern UI Experiences
-
----
-
-📬 Connect With Me
-
-""GitHub" (https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)" (https://github.com/YOUR_USERNAME)
-
-""Telegram" (https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)" (https://t.me/YOUR_TELEGRAM)
-
-""Portfolio" (https://img.shields.io/badge/Portfolio-111?style=for-the-badge)" (YOUR_PORTFOLIO_LINK)
-
----
-
-<div align="center">⚡ Code • Build • Improve • Repeat
+  [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/<YOUR_TELEGRAM_USERNAME>)
 
 </div>
+
+<hr />
+
+## 👨‍💻 About Me
+
+Hi, I’m **عبدالقدوس الشيباني**  
+**Flutter Developer | Web Developer**
+
+I build modern mobile apps and web interfaces with a focus on clean code, smooth UI, and practical solutions.
+
+- 🔥 I build apps using **Flutter / Dart**
+- 🌐 I work with **Web Development**
+- 🎯 I care about **performance, UI quality, and maintainability**
+- 📚 I enjoy learning new tools and improving my development workflow
+- 🤝 Open to collaboration on interesting projects
+
+## 🚀 Tools & Technologies
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+```dart
+class DeveloperProfile {
+  final String name = "عبدالقدوس الشيباني";
+  final String role = "Flutter Developer | Web Developer";
+
+  final List<String> skills = [
+    "Flutter",
+    "Dart",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Firebase",
+    "SQLite",
+    "HTML",
+    "CSS",
+    "Git",
+  ];
+}
